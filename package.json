@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simulatore costo dipendente CCNL Commercio",
   "private": true,
-  "homepage": "https://USERNAME.github.io/costo-dipendente",
+  "homepage": "https://giofortunato.github.io/costo-dipendente",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
